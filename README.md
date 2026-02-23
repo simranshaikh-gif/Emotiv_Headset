@@ -62,11 +62,6 @@ The microcontroller then actuates motors or other connected hardware.
 
 ---
 
-## Demonstration
-(Add your Google Drive or YouTube demo video link here)
-
----
-
 ## Future Improvements
 - Machine learning based classification
 - Wireless device control
